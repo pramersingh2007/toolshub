@@ -90,7 +90,7 @@ export function SearchBox() {
   }, [query]);
 
   return (
-    <div ref={containerRef} className="relative w-full max-w-4xl mx-auto z-[110]">
+    <div ref={containerRef} className="relative w-full max-w-4xl mx-auto z-40">
       <div className={cn(
         "relative transition-all duration-500 ease-[cubic-bezier(0.23,1,0.32,1)]",
         focused ? "scale-[1.03] modern-shadow" : "scale-100"

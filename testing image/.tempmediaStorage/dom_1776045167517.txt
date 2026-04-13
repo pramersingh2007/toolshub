@@ -1,0 +1,92 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+Skip to main content
+Accessibility help
+Accessibility feedback
+[0] (124,90)<a aria-label='Go to Google Home' href='https://www.google.com/webhp?hl=en&sa=X&ved=0ahUKEwiW4rLl2-mTAxWKd2wGHVnbACUQPAgJ' id='logo' title='Go to Google Home' />
+[1] (417,89)<textarea aria-label='Search' class='gLFyf' id='APjFqb' role='combobox' />
+[2] (629,89)<div  />
+	[3] (627,89)<div aria-label='Clear' class='vOY7J M2vV3' role='button' />
+		[4] (627,89)<span  />
+	[5] (650,89)<span  />
+[6] (674,89)<div aria-label='Search by voice' class='XDyW0e' role='button' />
+[7] (712,89)<div aria-label='Search by image' class='nDcEnd' role='button' />
+[8] (756,89)<button aria-label='Search' class='HZVG1b Tg7LZd' />
+	[9] (750,89)<div  />
+		[10] (750,89)<span  />
+[11] (832,89)<div aria-label='Settings' class='fLciMb' id='og-te' role='button' />
+	[12] (832,92)<div  />
+		[13] (832,89)<span  />
+[14] (876,89)<a aria-label='Google apps' class='gb_B' href='https://www.google.com.sg/intl/en/about/products?tab=wh' role='button' />
+[15] (940,89)<a aria-label='Sign in' class='gb_A' href='https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https://www.google.com/search%3Fq%3Dilovepdf%2Bedit%2Bpdf%2Btool%2Bfeatures%2Blist%2Bfunctions%26sei%3DY0zcaY78KMGwwcsPwPS44QQ&ec=futura_srp_og_si_72236_p'>Sign in />
+	Sign in
+[16] (105,196)<a class='XVMlrc C6AK7c' href='/search?q=ilovepdf+edit+pdf+tool+features+list+functions&sca_esv=df16fe885e8b71c1&udm=50&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpFZYo9qIX3pM4_jubAu4b8Go4RDwe7bFpL3uSo4ZTks0k-cb8gYZWFoFqmcQx1ocjiMblEhutac9w9wqnJgxKNbe5ITulcdewtPAGaQlrr-iK_OPvbdPmlIH4bNY7clJAJl1EVL5sIg5ZgrE1iYin0RAVjsyCTmO2IHQqQ_BDMflNqnKE_t_ByCccDgqCy21axElCDQ&aep=1&ntc=1&sa=X&ved=2ahUKEwiW4rLl2-mTAxWKd2wGHVnbACUQ2J8OegQIEhAE' />
+	[17] (105,196)<div  />
+		[18] (105,210)<div  />
+			[19] (105,201)<span >AI Mode />
+[20] (160,196)<a class='C6AK7c' role='link' />
+	All
+[21] (213,196)<a class='C6AK7c' href='/search?sca_esv=df16fe885e8b71c1&udm=18&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpFZYo9qIX3pM4_jubAu4b8Go4RDwe7bFpL3uSo4ZTks0k-cb8gYZWFoFqmcQx1ocjiMblEhutac9w9wqnJgxKNbe5ITulcdewtPAGaQlrr-iK_OPvbdPmlIH4bNY7clJAJl1EVL5sIg5ZgrE1iYin0RAVjsyCTmO2IHQqQ_BDMflNqnKE_t_ByCccDgqCy21axElCDQ&q=ilovepdf+edit+pdf+tool+features+list+functions&sa=X&ved=2ahUKEwiW4rLl2-mTAxWKd2wGHVnbACUQs6gLegQIGBAB' />
+	[22] (213,196)<div  />
+		[23] (213,210)<span >Forums />
+[24] (288,196)<a class='C6AK7c' href='/search?sca_esv=df16fe885e8b71c1&udm=28&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpFZYo9qIX3pM4_jubAu4b8Go4RDwe7bFpL3uSo4ZTks0k-cb8gYZWFoFqmcQx1ocjiMblEhutac9w9wqnJgxKNbe5ITulcdewtPAGaQlrr-iK_OPvbdPmlIH4bNY7clJAJl1EVL5sIg5ZgrE1iYin0RAVjsyCTmO2IHQqQ_BDMflNqnKE_t_ByCccDgqCy21axElCDQ&q=ilovepdf+edit+pdf+tool+features+list+functions&ved=1t:220175&ictx=111' />
+	[25] (288,196)<div  />
+		[26] (288,210)<span >Shopping />
+[27] (361,196)<a class='C6AK7c' href='/search?sca_esv=df16fe885e8b71c1&udm=2&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpFZYo9qIX3pM4_jubAu4b8Go4RDwe7bFpL3uSo4ZTks0k-cb8gYZWFoFqmcQx1ocjiMblEhutac9w9wqnJgxKNbe5ITulcdewtPAGaQlrr-iK_OPvbdPmlIH4bNY7clJAJl1EVL5sIg5ZgrE1iYin0RAVjsyCTmO2IHQqQ_BDMflNqnKE_t_ByCccDgqCy21axElCDQ&q=ilovepdf+edit+pdf+tool+features+list+functions&sa=X&ved=2ahUKEwiW4rLl2-mTAxWKd2wGHVnbACUQtKgLegQIFhAB' />
+	[28] (361,196)<div  />
+		[29] (361,210)<span >Images />
+[30] (427,196)<a class='C6AK7c' href='/search?sca_esv=df16fe885e8b71c1&udm=7&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpFZYo9qIX3pM4_jubAu4b8Go4RDwe7bFpL3uSo4ZTks0k-cb8gYZWFoFqmcQx1ocjiMblEhutac9w9wqnJgxKNbe5ITulcdewtPAGaQlrr-iK_OPvbdPmlIH4bNY7clJAJl1EVL5sIg5ZgrE1iYin0RAVjsyCTmO2IHQqQ_BDMflNqnKE_t_ByCccDgqCy21axElCDQ&q=ilovepdf+edit+pdf+tool+features+list+functions&sa=X&ved=2ahUKEwiW4rLl2-mTAxWKd2wGHVnbACUQtKgLegQIFBAB' />
+	[31] (427,196)<div  />
+		[32] (427,210)<span >Videos />
+[33] (507,196)<a class='C6AK7c' href='/search?sca_esv=df16fe885e8b71c1&udm=39&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpFZYo9qIX3pM4_jubAu4b8Go4RDwe7bFpL3uSo4ZTks0k-cb8gYZWFoFqmcQx1ocjiMblEhutac9w9wqnJgxKNbe5ITulcdewtPAGaQlrr-iK_OPvbdPmlIH4bNY7clJAJl1EVL5sIg5ZgrE1iYin0RAVjsyCTmO2IHQqQ_BDMflNqnKE_t_ByCccDgqCy21axElCDQ&q=ilovepdf+edit+pdf+tool+features+list+functions&sa=X&ved=2ahUKEwiW4rLl2-mTAxWKd2wGHVnbACUQs6gLegQIFRAB' />
+	[34] (507,196)<div  />
+		[35] (507,210)<span >Short videos />
+[36] (592,196)<div class='mTpL7c' role='button' />
+	[37] (592,196)<div  />
+		[38] (592,210)<div  />
+			[39] (583,201)<span >More />
+			[40] (607,201)<span  />
+[41] (663,196)<div class='mOKdDc' id='hdtb-tls' role='button' />
+	[42] (663,196)<div  />
+		[43] (663,210)<div  />
+			[44] (654,201)<span >Tools />
+			[45] (679,201)<span  />
+Search Results
+AI Overview
+[46] (912,316)<div aria-label='About this result' class='Mtffrd' role='button' />
+[47] (113,381)<a class='H23r4e' href='https://www.ilovepdf.com/' />
+	[48] (113,381)<span >iLovePDF />
+provides a comprehensive "Edit PDF" tool that allows users to modify PDF documents directly in a web browser, on desktop, or via mobile without needing to convert them to Word first. The tool focuses on adding and editing text, images, shapes, and annotations
+.
+[49] (519,507)<button aria-label='iLovePDF (+4) – View related links' class='rBl3me IWyTpf pjvauc' />
+	iLovePDF
+	+4
+Key Features of iLovePDF Edit PDF Tool
+Direct Text Editing:
+Click on existing PDF text to edit, delete, or modify it, including changing fonts, sizes, and colors.
+Add/Edit Text Boxes:
+Add new text, comments, or notes to any part of the document, with options to customize font style, color, and size.
+Image and Shape Insertion:
+Import images (PNG, JPG, GIF) to update logos, charts, or signatures. You can also add shapes like lines, rectangles, and ellipses.
+Annotation Tools:
+Highlight, underline, strikeout, or draw freehand on the document to markup key information.
+[50] (769,490)<a aria-label='How to Edit PDF Files online for free - iLovePDF. Opens in new tab.' class='NDNGvf' href='https://www.ilovepdf.com/blog/how-to-edit-pdf#:~:text=Go%20to%20the%20Edit%20PDF,%2C%20border%2C%20size%20or%20transparency.' />
+How to Edit PDF Files online for free - iLovePDF
+Add and edit text, images, and shapes in your PDF documents with this easy guide. ... People from all across the globe use PDF (Po...
+iLovePDF
+[51] (723,562)<div aria-label='About this result' class='xXnAhe' id='snui-atr-ZUzcad2YFraLseMPx8DskAM_5' role='button' />
+A comparison between iLovePDF Web, Desktop, & Mobile
+iLovePDF Web, Desktop, or Mobile: Which platform is right for you? (updated 2025) * To help you work more efficiently, iLovePDF of...
+iLovePDF
+Edit PDF now has more advanced features - iLovePDF
+27 Feb 2026 —
+The Edit tool now has even more ways to customize your PDFs. ... Editing a PDF used to mean one thing: convert it to Word, fix it ...
+[52] (500,873)<div aria-label='Show more AI Overview' class='Jzkafd' role='button' />
+	[53] (383,873)<div  />
+		[54] (383,873)<div >Show more />
+			Show more
+			[55] (421,873)<span  />
+
+</current_dom>

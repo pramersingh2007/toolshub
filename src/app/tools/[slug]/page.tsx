@@ -13,6 +13,7 @@ import { BioDataMaker } from "@/components/tools/BioDataMaker";
 import { PassportPhotoMaker } from "@/components/tools/PassportPhotoMaker";
 import { ImageResizer } from "@/components/tools/ImageResizer";
 import { PdfMerger } from "@/components/tools/PdfMerger";
+import PdfToJpg from "@/components/tools/PdfToJpgWrapper";
 import { AdPlaceholder } from "@/components/AdPlaceholder";
 
 const TOOL_COMPONENTS: Record<string, any> = {
@@ -25,6 +26,7 @@ const TOOL_COMPONENTS: Record<string, any> = {
   PassportPhotoMaker,
   ImageResizer,
   PdfMerger,
+  PdfToJpg,
 };
 
 export default async function ToolPage({ params }: { params: Promise<{ slug: string }> }) {

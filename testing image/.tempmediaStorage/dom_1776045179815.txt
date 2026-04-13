@@ -1,0 +1,29 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (80,52)<a class='brand' href='/' title='iLovePDF' />
+	[1] (80,52)<img  />
+[2] (204,52)<a href='/merge_pdf'>Merge PDF />
+[3] (287,52)<a href='/split_pdf'>Split PDF />
+[4] (382,52)<a href='/compress_pdf'>Compress PDF />
+[5] (501,52)<li  />
+	[6] (501,52)<span >Convert PDF />
+		[7] (544,52)<i  />
+[8] (630,52)<li  />
+	[9] (630,52)<span >All PDF tools />
+		[10] (677,52)<i  />
+[11] (816,52)<a class='link--secondary hide--sm' href='/login'>Login />
+[12] (881,52)<a class='btn btn--sm hide--sm' href='/register'>Sign up />
+[13] (950,52)<li  />
+	[14] (950,52)<span  />
+		[15] (954,52)<i  />
+How to edit PDF files online
+Add and edit text, images, and shapes in your PDF documents with this easy guide
+Aug 6, 2024
+[16] (175,576)<a href='/blog'>Blog />
+[17] (867,835)<a class='post__share__item post__share__item--facebook' />
+[18] (867,911)<a class='post__share__item post__share__item--twitter' />
+[19] (867,986)<a class='post__share__item post__share__item--linkedin' />
+
+</current_dom>

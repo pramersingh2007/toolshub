@@ -1,0 +1,167 @@
+
+> nextn@0.1.0 dev
+> next dev --turbopack -p 9002
+
+ ⚠ Warning: Next.js inferred your workspace root, but it may not be correct.
+ We detected multiple lockfiles and selected the directory of /home/pramersinghplayer12345/package-lock.json as the root directory.
+ To silence this warning, set `turbopack.root` in your Next.js config, or consider removing one of the lockfiles if it's not needed.
+   See https://nextjs.org/docs/app/api-reference/config/next-config-js/turbopack#root-directory for more information.
+ Detected additional lockfiles: 
+   * /home/pramersinghplayer12345/toolshub/package-lock.json
+
+   ▲ Next.js 15.5.9 (Turbopack)
+   - Local:        http://localhost:9002
+   - Network:      http://10.88.0.4:9002
+   - Environments: .env
+
+ ✓ Starting...
+ ✓ Ready in 1613ms
+ ○ Compiling / ...
+
+warn - The class `ease-[cubic-bezier(0.23,1,0.32,1)]` is ambiguous and matches multiple utilities.
+warn - If this is content and not a class, replace it with `ease-&lsqb;cubic-bezier(0.23,1,0.32,1)&rsqb;` to silence this warning.
+ ✓ Compiled / in 9s
+ GET /?authuser=1 200 in 10827ms
+ ○ Compiling /categories/[slug] ...
+ ✓ Compiled /categories/[slug] in 917ms
+ GET /categories/pdf-tools 200 in 2161ms
+ ○ Compiling /favicon.ico ...
+ ⚠ Cross origin request detected from 9002-cs-67199710491-default.cs-asia-southeast1-bool.cloudshell.dev to /_next/* resource. In a future major version of Next.js, you will need to explicitly configure "allowedDevOrigins" in next.config to allow this.
+Read more: https://nextjs.org/docs/app/api-reference/config/next-config-js/allowedDevOrigins
+ ✓ Compiled /favicon.ico in 1015ms
+ GET /favicon.ico?favicon.7ed73651.ico 200 in 1438ms
+ ○ Compiling /tools/jpg-to-pdf ...
+ ✓ Compiled /tools/jpg-to-pdf in 4.3s
+ GET /tools/jpg-to-pdf 200 in 4474ms
+ GET /?authuser=1 200 in 438ms
+ GET /categories/image-tools 200 in 386ms
+ ○ Compiling /tools/[slug] ...
+ ✓ Compiled /tools/[slug] in 7.1s
+ GET /tools/image-resizer 200 in 8205ms
+ ○ Compiling /tools/image-merge ...
+ ✓ Compiled /tools/image-merge in 738ms
+ GET /tools/image-merge 200 in 849ms
+ GET /tools/jpg-to-pdf 200 in 919ms
+ GET /?authuser=1 200 in 555ms
+ GET /categories/pdf-tools 200 in 496ms
+ GET /tools/jpg-to-pdf 200 in 162ms
+ GET /?authuser=1 200 in 489ms
+ GET /?authuser=1 200 in 611ms
+ GET /categories/pdf-tools 200 in 497ms
+ GET /tools/pdf-merger 200 in 394ms
+ GET /tools/jpg-to-pdf 200 in 162ms
+ ✓ Compiled in 229ms
+ ✓ Compiled in 1157ms
+ ✓ Compiled /tools/jpg-to-pdf in 84ms
+ GET /tools/jpg-to-pdf 200 in 430ms
+ GET /tools/jpg-to-pdf 200 in 1024ms
+ GET /categories/pdf-tools 200 in 342ms
+ GET /tools/jpg-to-pdf 200 in 152ms
+ GET /tools/jpg-to-pdf 200 in 456ms
+ GET /favicon.ico?favicon.7ed73651.ico 200 in 308ms
+ GET /tools/jpg-to-pdf 200 in 305ms
+ GET /favicon.ico?favicon.7ed73651.ico 200 in 272ms
+ ✓ Compiled in 173ms
+ ✓ Compiled in 1059ms
+ GET /tools/jpg-to-pdf 200 in 1448ms
+ ○ Compiling /tools/pdf-compressor ...
+ ✓ Compiled /tools/pdf-compressor in 1883ms
+ GET /tools/pdf-compressor 200 in 2026ms
+ GET /tools/pdf-to-jpg 200 in 342ms
+ GET /tools/pdf-merger 200 in 310ms
+ GET /categories/pdf-tools 200 in 337ms
+ GET /?authuser=1 200 in 430ms
+ ✓ Compiled in 336ms
+ ✓ Compiled in 283ms
+ ✓ Compiled in 303ms
+ ✓ Compiled in 1262ms
+ GET /tools/jpg-to-pdf 200 in 337ms
+ ✓ Compiled /tools/[slug] in 104ms
+Warning: Please use the `legacy` build in Node.js environments.
+ ⨯ ReferenceError: DOMMatrix is not defined
+    at __TURBOPACK__module__evaluation__ (src/app/tools/pdf-merger/hooks/usePdfMerger.ts:2:1)
+    at __TURBOPACK__module__evaluation__ (src/components/tools/PdfMerger.tsx:5:1)
+  1 | import { useState, useCallback, useRef } from 'react';
+> 2 | import * as pdfjsLib from 'pdfjs-dist';
+    | ^
+  3 | import { PDFDocument, degrees } from 'pdf-lib';
+  4 |
+  5 | if (typeof window !== 'undefined' && 'Worker' in window) { {
+  digest: '4059422600'
+}
+ GET /tools/pdf-merger 500 in 3367ms
+ ✓ Compiled in 159ms
+ ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+Warning: Please use the `legacy` build in Node.js environments.
+ ⨯ ReferenceError: DOMMatrix is not defined
+    at __TURBOPACK__module__evaluation__ (src/app/tools/pdf-merger/hooks/usePdfMerger.ts:2:1)
+    at __TURBOPACK__module__evaluation__ (src/components/tools/PdfMerger.tsx:5:1)
+  1 | import { useState, useCallback, useRef } from 'react';
+> 2 | import * as pdfjsLib from 'pdfjs-dist';
+    | ^
+  3 | import { PDFDocument, degrees } from 'pdf-lib';
+  4 |
+  5 | if (typeof window !== 'undefined' && 'Worker' in window) { {
+  digest: '4059422600'
+}
+ GET /tools/pdf-merger 500 in 2515ms
+ ✓ Compiled in 142ms
+ ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+Warning: Please use the `legacy` build in Node.js environments.
+ ⨯ ReferenceError: DOMMatrix is not defined
+    at __TURBOPACK__module__evaluation__ (src/app/tools/pdf-merger/hooks/usePdfMerger.ts:2:1)
+    at __TURBOPACK__module__evaluation__ (src/components/tools/PdfMerger.tsx:5:1)
+  1 | import { useState, useCallback, useRef } from 'react';
+> 2 | import * as pdfjsLib from 'pdfjs-dist';
+    | ^
+  3 | import { PDFDocument, degrees } from 'pdf-lib';
+  4 |
+  5 | if (typeof window !== 'undefined' && 'Worker' in window) { {
+  digest: '4059422600'
+}
+ GET /tools/pdf-merger 500 in 2435ms
+ ⨯ ReferenceError: DOMMatrix is not defined
+    at __TURBOPACK__module__evaluation__ (src/app/tools/pdf-merger/hooks/usePdfMerger.ts:2:1)
+    at __TURBOPACK__module__evaluation__ (src/components/tools/PdfMerger.tsx:5:1)
+  1 | import { useState, useCallback, useRef } from 'react';
+> 2 | import * as pdfjsLib from 'pdfjs-dist';
+    | ^
+  3 | import { PDFDocument, degrees } from 'pdf-lib';
+  4 |
+  5 | if (typeof window !== 'undefined' && 'Worker' in window) { {
+  digest: '4059422600'
+}
+ GET /tools/pdf-merger 500 in 1343ms
+ ✓ Compiled in 784ms
+ ✓ Compiled in 687ms
+ GET /tools/pdf-merger 200 in 1896ms
+ GET /?authuser=1 200 in 361ms
+ GET /?authuser=1 200 in 500ms
+ GET /favicon.ico?favicon.7ed73651.ico 200 in 316ms
+ GET /categories/pdf-tools 200 in 584ms
+ GET /tools/pdf-compressor 200 in 132ms
+ GET /tools/jpg-to-pdf 200 in 144ms
+ GET /tools/pdf-merger 200 in 304ms
+ GET /categories/pdf-tools 200 in 310ms
+ GET / 200 in 266ms
+ GET /categories/image-tools 200 in 278ms
+ GET /tools/image-resizer 200 in 433ms
+ GET /categories/pdf-tools 200 in 285ms
+ GET /categories/pdf-tools 200 in 475ms
+ GET /favicon.ico?favicon.7ed73651.ico 200 in 285ms
+ GET /categories/developer-tools 200 in 261ms
+ GET /categories/developer-tools 200 in 270ms
+ GET /categories/developer-tools 200 in 270ms
+ GET /categories/developer-tools 200 in 478ms
+ GET /favicon.ico?favicon.7ed73651.ico 200 in 287ms
+ ○ Compiling /admin ...
+ ✓ Compiled /admin in 1126ms
+ GET /admin 200 in 1232ms
+ ○ Compiling /_not-found/page ...
+ ✓ Compiled /_not-found/page in 1038ms
+ GET /about 404 in 1199ms
+ GET /about 404 in 129ms
+ GET /admin 200 in 270ms
+ GET /tools/pdf-to-jpg 200 in 972ms
+ GET /favicon.ico?favicon.7ed73651.ico 200 in 368ms
+ GET /admin 200 in 272ms

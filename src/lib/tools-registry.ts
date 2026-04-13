@@ -33,6 +33,26 @@ export const ALL_TOOLS: Tool[] = [
     componentName: "PdfCompressor"
   },
   {
+    id: "pdf-to-jpg",
+    name: "PDF to JPG Converter",
+    description: "Convert PDF documents to high-quality JPG images directly in your browser.",
+    category: "pdf-tools",
+    link: "/tools/pdf-to-jpg",
+    icon: ImageIcon,
+    keywords: ["pdf", "jpg", "image", "convert", "extract"],
+    componentName: "PdfToJpg"
+  },
+  {
+    id: "jpg-to-pdf",
+    name: "JPG to PDF Converter",
+    description: "Convert multiple JPG, JPEG, or PNG images to a single PDF document.",
+    category: "pdf-tools",
+    link: "/tools/jpg-to-pdf",
+    icon: ImageIcon,
+    keywords: ["jpg", "pdf", "image", "convert", "combine", "merge"],
+    componentName: "JpgToPdf"
+  },
+  {
     id: "pdf-merger",
     name: "PDF Merger",
     description: "Combine multiple PDF files into a single document easily and securely.",
@@ -172,7 +192,7 @@ export const CATEGORIES: Category[] = [
     icon: FileText,
     link: "/categories/pdf-tools",
     color: "bg-red-500",
-    tools: ["pdf-merger", "pdf-compressor", "pdf-to-word"]
+    tools: ["pdf-merger", "pdf-compressor", "pdf-to-word", "pdf-to-jpg", "jpg-to-pdf"]
   },
   {
     id: "image-tools",
